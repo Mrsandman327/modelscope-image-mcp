@@ -1,5 +1,7 @@
 # modelscope-image-mcp
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/mrsandman327-modelscope-image-mcp-34rvrm?v=b05762cd40329d833bd9a87e21f1bc31)](https://m8ven.ai/mcp/mrsandman327-modelscope-image-mcp-34rvrm?s=readme)
+
 基于官方 [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) 的 [ModelScope](https://www.modelscope.cn) 生图模型**文生图** MCP 服务,提供一个工具:
 
 | 工具 | 说明 |
